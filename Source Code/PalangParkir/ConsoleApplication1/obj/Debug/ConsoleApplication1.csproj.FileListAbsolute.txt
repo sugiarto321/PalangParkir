@@ -1,0 +1,15 @@
+D:\client\Palang Parkir\Sample\Palang Parkir\PalangParkir\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\client\Palang Parkir\Sample\Palang Parkir\PalangParkir\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\client\Palang Parkir\Sample\Palang Parkir\PalangParkir\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\client\Palang Parkir\Sample\Palang Parkir\PalangParkir\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\client\Palang Parkir\Sample\Palang Parkir\PalangParkir\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\client\Palang Parkir\Sample\Palang Parkir\PalangParkir\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\client\Palang Parkir\Sample\Palang Parkir\PalangParkir\ConsoleApplication1\bin\Debug\ThermalDotNet.dll
+D:\client\Palang Parkir\Sample\Palang Parkir\PalangParkir\ConsoleApplication1\bin\Debug\ThermalDotNet.xml
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\ConsoleApplication1\bin\Debug\ThermalDotNet.dll

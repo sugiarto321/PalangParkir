@@ -1,0 +1,7 @@
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\ConsoleApplication1\bin\Release\ThermalDotNet.dll
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

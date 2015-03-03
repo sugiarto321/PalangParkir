@@ -1,0 +1,15 @@
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\PalangParkir\bin\Release\PalangParkir.exe.config
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\PalangParkir\bin\Release\PalangParkir.exe
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\PalangParkir\bin\Release\PalangParkir.pdb
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\PalangParkir\obj\Release\PalangParkir.csprojResolveAssemblyReference.cache
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\PalangParkir\obj\Release\PalangParkir.View.JenisKendaraanForm.resources
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\PalangParkir\obj\Release\PalangParkir.Login.resources
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\PalangParkir\obj\Release\PalangParkir.MainForm.resources
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\PalangParkir\obj\Release\PalangParkir.Properties.Resources.resources
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\PalangParkir\obj\Release\PalangParkir.View.Pegawai.resources
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\PalangParkir\obj\Release\PalangParkir.View.SettingView.resources
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\PalangParkir\obj\Release\PalangParkir.csproj.GenerateResource.Cache
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\PalangParkir\obj\Release\PalangParkir.exe
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\PalangParkir\obj\Release\PalangParkir.pdb
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\PalangParkir\bin\Release\ThermalDotNet.dll
+D:\client\PalangParkir\trunk\Source Code\PalangParkir\PalangParkir\obj\Release\PalangParkir.View.PintuMasukView.resources
