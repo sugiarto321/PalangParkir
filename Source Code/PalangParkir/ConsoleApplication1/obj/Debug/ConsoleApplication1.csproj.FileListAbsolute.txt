@@ -13,3 +13,10 @@ D:\client\PalangParkir\trunk\Source Code\PalangParkir\ConsoleApplication1\obj\De
 D:\client\PalangParkir\trunk\Source Code\PalangParkir\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\client\PalangParkir\trunk\Source Code\PalangParkir\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
 D:\client\PalangParkir\trunk\Source Code\PalangParkir\ConsoleApplication1\bin\Debug\ThermalDotNet.dll
+D:\Palang Parkir\trunk\Source Code\PalangParkir\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Palang Parkir\trunk\Source Code\PalangParkir\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Palang Parkir\trunk\Source Code\PalangParkir\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Palang Parkir\trunk\Source Code\PalangParkir\ConsoleApplication1\bin\Debug\ThermalDotNet.dll
+D:\Palang Parkir\trunk\Source Code\PalangParkir\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Palang Parkir\trunk\Source Code\PalangParkir\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Palang Parkir\trunk\Source Code\PalangParkir\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

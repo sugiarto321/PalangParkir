@@ -18,7 +18,7 @@ namespace PalangParkir
         
         //private string server;
         //private string database;
-        //private string uid;
+        //private string uid; test tests
         //private string password;
 
         public Connection() { 
